@@ -1,0 +1,13 @@
+header{
+    img{
+        border-radius: 50%;
+    }
+}
+body{
+    background-color: #171719;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.center{
+    text-align: center;
+}
